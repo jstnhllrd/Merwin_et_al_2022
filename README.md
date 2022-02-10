@@ -1,5 +1,7 @@
 # Merwin_et_al_2022 Online Supplement
 
+### NOTICE: This is the online supplement to a manuscript that is under review. This repository exists for the reviewers to have data access. The final version will be published as a Zenodo repository.
+______
 
 **Merwin_etal_2022_estimatedHostNitrogenTable.xlsx**    --Excel file of plant species used in dietary nitrogen estimation for butterflies
 
